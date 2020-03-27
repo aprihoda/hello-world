@@ -12,6 +12,9 @@ Data visulaization/ coding languages I use
 
 My skillset includes
 
-- quantitative analysis - statistics - machine learning - ETL
+- quantitative analysis 
+- statistics 
+- machine learning 
+- ETL
 
 I have also spent some time in K-12 schools teaching corses such as AP Statistics, and ran an after school elementary math program.  I have taught math to ages 5-55+
