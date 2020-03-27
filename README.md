@@ -4,7 +4,11 @@ I am Anne Prihoda.  I have a MS in Analytics from Capella University, and a BS i
 
 Data visulaization/ coding languages I use
 
-- SAS - SQL - R - Python - Tableau
+- SAS 
+- SQL 
+- R 
+- Python 
+- Tableau
 
 My skillset includes
 
